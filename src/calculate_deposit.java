@@ -1,6 +1,5 @@
-import java.net.URI;
 import java.util.Scanner;
-import java.io.IOException;
+
 
 public class DepositCalculator {
     double calculateComplexPercent(double a, double y, int d) {
